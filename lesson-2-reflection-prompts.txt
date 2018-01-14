@@ -22,3 +22,4 @@ We should have one main branch and merging helps us keep track of all commits.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+sometimes there are no conflicts, but when conflicts occur it is the developer who has most input on how to resolve it.
